@@ -1,0 +1,29 @@
+# Model files (generate locally with train_model.py)
+*.pkl
+*.joblib
+
+# Logs (generated at runtime)
+metrics_log.csv
+anomaly_log.csv
+entroguard_report.pdf
+training_results.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# Arduino
+*.elf
+*.hex
+*.bin
+build/
+
+# OS
+.DS_Store
+Thumbs.db
