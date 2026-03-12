@@ -225,9 +225,7 @@ reportlab
 
 ## 👨‍💻 Author
 
-**Nisarg Patel** (24MSIT103)
-Smt. Chandaben Mohanbhai Patel Institute of Computer Applications
-CHARUSAT University — March 2026
+**Nisarg Patel** - March 2026
 
 ---
 
